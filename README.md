@@ -164,3 +164,43 @@ A quitação definitiva só ocorre quando se estabelece um orçamento superavit�
   - Reserva de Emergência: Tão logo as dívidas sejam quitadas, deve-se iniciar a formação de uma reserva financeira, que é a única proteção real contra novos endividamentos causados por imprevistos como doenças ou desemprego.
   - Autocontrole: Evitar sair de casa com cartões de crédito ou talões de cheque ajuda o consumidor impulsivo a limitar seus gastos ao dinheiro vivo disponível
 
+# Glossário e Prompts Reutilizáveis
+Com base nos documentos analisados, apresento o glossário solicitado e a relação dos prompts que guiaram este estudo.
+
+Glossário de Conceitos
+
+  - Análise de Despesas: Processo que consiste em levantar os gastos e estudá-los para verificar se o dinheiro está sendo realmente utilizado conforme o planejado.
+  - Ancoragem: Fenômeno psicológico em que o indivíduo fica "marcado" por um número ou valor, influenciando suas escolhas subsequentes, mesmo que a realidade financeira tenha mudado.
+  - Apólice: Documento que formaliza o contrato de seguro, detalhando os direitos, obrigações e garantias da seguradora e do segurado.
+  - Comportamento Gastador: Hábito financeiro de pessoas propensas ao consumo excessivo, que dão pouca atenção à poupança.
+  - Comportamento Poupador: Tendência a ser espontaneamente contido nos gastos, priorizando o acúmulo de saldo positivo e reserva financeira.
+  - Contabilidade Mental: Hábito de separar receitas e despesas em "compartimentos" mentais isolados, o que pode levar a decisões irracionais, como manter uma dívida cara enquanto se preserva um investimento de baixo rendimento.
+  - Crédito: Fonte adicional de recursos obtida de terceiros (como bancos) que permite antecipar o consumo de bens ou serviços, implicando geralmente no pagamento de juros.
+  - Custo de Oportunidade: Representa o que se deixa de ganhar ou fazer ao escolher uma alternativa em detrimento de outra; por exemplo, o rendimento que se perde ao gastar um dinheiro em vez de investi-lo.
+  - Custo Efetivo Total (CET): Indicador percentual que revela o custo real de um empréstimo ou financiamento, incluindo juros, tarifas, impostos e outros encargos.
+  - Déficit: Diferença negativa entre receitas e despesas; ocorre quando os gastos superam os ganhos.
+  - Desperdício: Gastos realizados sem reflexão que não agregam bem-estar ou qualidade de vida.
+  - Despesas Fixas: Gastos recorrentes com valores previsíveis que dificilmente sofrem alterações significativas no curto prazo, como aluguel, condomínio e mensalidade escolar.
+  - Despesas Variáveis: Gastos cujos valores flutuam conforme o consumo ou a ocorrência, como luz, água e lazer.
+  - Educação Financeira: Conjunto de conhecimentos e comportamentos que auxiliam o indivíduo a administrar seus rendimentos, poupar, investir e consumir de forma consciente.
+  - Empréstimo: Operação financeira onde se obtém recursos de uma instituição para pagar posteriormente acrescidos de juros.
+  - Empréstimo Consignado: Modalidade de crédito onde as parcelas são descontadas diretamente da folha de pagamento ou aposentadoria, geralmente oferecendo juros menores devido ao baixo risco.
+  - Financiamento: Operação de crédito vinculada especificamente à aquisição de um bem ou serviço (como um carro ou imóvel).
+  - Inadimplência: Descumprimento de obrigações contratuais, como o não pagamento de uma dívida no prazo estipulado.
+  - Independência Financeira: Estágio em que os rendimentos dos investimentos são suficientes para cobrir todas as despesas de vida, dispensando a necessidade de trabalho assalariado.
+  - Investimento: Aplicação de recursos com a expectativa de obter um retorno futuro superior ao valor aplicado, visando o aumento do patrimônio.
+  - Juros: Preço pago pela utilização de dinheiro de terceiros ou a remuneração recebida por emprestar dinheiro ao mercado (investir).
+  - Juros Compostos: Regime em que os juros de cada período são somados ao capital para o cálculo de novos juros, gerando o efeito de "juros sobre juros".
+  - Liquidez: Facilidade e rapidez com que um ativo financeiro ou investimento pode ser convertido em dinheiro sem perda significativa de valor.
+  - Orçamento Doméstico: Ferramenta de planejamento que registra sistematicamente todas as receitas e despesas previstas e realizadas, permitindo maior controle financeiro.
+  - Patrimônio Líquido: Soma de todos os bens e investimentos de uma pessoa subtraída de suas dívidas e obrigações financeiras.
+  - Poupança: Parcela da receita que não é consumida no presente, sendo guardada para uso futuro.
+  - Principal: Valor originalmente tomado emprestado em um empréstimo ou o montante inicial aplicado em um investimento.
+  - Receita: Todo o dinheiro que entra no orçamento, podendo ser fixa (salário) ou variável (comissões, bicos).
+  - Rentabilidade: Retorno financeiro ou remuneração obtida a partir de um investimento.
+  - Risco: Probabilidade de ocorrência de perdas ou de um evento incerto que afete o planejamento financeiro.
+  - Sinistro: Ocorrência de um evento previsto em contrato de seguro (como um acidente ou roubo) que gera o direito à indenização.
+  - Spread Bancário: Diferença entre a taxa que o banco paga para captar recursos e a taxa que ele cobra ao emprestar esse dinheiro aos clientes.
+ - Taxa Selic: Taxa básica de juros da economia, utilizada como referência para o mercado financeiro no Brasil.
+ - Troca Intertemporal: Decisão entre consumir no presente ou postergar o consumo para o futuro, pesando os custos (juros pagos) ou benefícios (juros recebidos) dessa escolha.
+
