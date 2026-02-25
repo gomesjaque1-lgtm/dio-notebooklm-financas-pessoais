@@ -128,4 +128,39 @@ Prevenção e Proteção
 Embora a reserva de emergência seja essencial, ela pode ser complementada por outras estratégias de proteção patrimonial, como a contratação de seguros (vida, saúde, automóvel e residencial). O seguro ajuda a mitigar riscos que poderiam ser financeiramente maiores do que o valor acumulado na reserva.
 
 # Quitação de dívidas (Resposta do Prompt 3)
+A quitação de dívidas exige uma abordagem estruturada que vai além de apenas "pagar as contas"; ela envolve um diagnóstico preciso, a renegociação estratégica e uma mudança de comportamento financeiro para evitar o retorno ao desequilíbrio.
+
+1. Diagnóstico e Mapeamento
+   
+O primeiro passo para sair do endividamento é tomar consciência do real tamanho do problema. É essencial mapear detalhadamente todas as dívidas, listando os valores totais, os prazos para pagamento, as taxas de juros mensais e o Custo Efetivo Total (CET), que revela o custo real da operação incluindo tarifas e impostos. Sem esse controle efetivo, o acúmulo de contas pode levar ao descontrole total do orçamento, criando o chamado "efeito bola de neve".
+
+2. Estratégias de Priorização
+   
+Ao desenvolver um plano de quitação, a regra fundamental é priorizar as dívidas com as taxas de juros mais altas, como o cartão de crédito e o cheque especial.
+
+  - O Perigo do Pagamento Mínimo: Pagar apenas o valor mínimo da fatura do cartão é uma cilada, pois transforma o saldo restante em um novo empréstimo corrigido por juros rotativos que podem ultrapassar 400% ao ano.
+  - A Ordem de Pagamento: Deve-se garantir o pagamento mínimo obrigatório de todas as contas e concentrar qualquer recurso extra na eliminação total da dívida mais cara antes de passar para a próxima.
+    
+3. Renegociação e Consolidação de Débitos
+   
+Uma tática eficaz para aliviar o orçamento é a troca de dívidas caras por outras mais baratas.
+
+  - Refinanciamento: Pode ser vantajoso contratar um empréstimo com taxas menores (como o crédito consignado) para quitar dívidas de juros elevados (como o rotativo do cartão), reunindo os débitos em uma única parcela que caiba no orçamento.
+  - Negociação Direta: O devedor deve entrar em contato com os credores para buscar prazos maiores ou descontos para quitação à vista. No entanto, é fundamental não comprometer mais do que 35% da renda mensal com essas novas prestações.
+    
+4. Ajuste Orçamentário e Geração de Receita
+   
+"Para sair do buraco, é preciso parar de cavar". Isso significa que, durante o processo de quitação, não se deve contrair novas dívidas.
+
+  - Corte de Gastos: É necessário classificar as despesas para eliminar desperdícios (gastos que não geram bem-estar) e reduzir supérfluos.
+  - Renda Extra: Caso o orçamento continue deficitário após os cortes, deve-se avaliar a possibilidade de gerar renda adicional através de serviços extras ou uso de talentos pessoais.
+  - Uso de Recursos Extras: Utilizar o 13º salário, restituição de imposto de renda ou férias para abater o principal da dívida é uma recomendação recorrente para acelerar a saída do vermelho.
+    
+5. Prevenção e Mudança de Hábito
+   
+A quitação definitiva só ocorre quando se estabelece um orçamento superavitário (ganhar mais do que se gasta).
+
+  - Participação Familiar: O planejamento e as dificuldades devem ser compartilhados com a família para que todos colaborem na economia doméstica.
+  - Reserva de Emergência: Tão logo as dívidas sejam quitadas, deve-se iniciar a formação de uma reserva financeira, que é a única proteção real contra novos endividamentos causados por imprevistos como doenças ou desemprego.
+  - Autocontrole: Evitar sair de casa com cartões de crédito ou talões de cheque ajuda o consumidor impulsivo a limitar seus gastos ao dinheiro vivo disponível
 
