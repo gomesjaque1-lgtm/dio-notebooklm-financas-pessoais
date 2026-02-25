@@ -204,3 +204,12 @@ Glossário de Conceitos
  - Taxa Selic: Taxa básica de juros da economia, utilizada como referência para o mercado financeiro no Brasil.
  - Troca Intertemporal: Decisão entre consumir no presente ou postergar o consumo para o futuro, pesando os custos (juros pagos) ou benefícios (juros recebidos) dessa escolha.
 
+Prompts utilizados que estruturaram esta análise foram:
+
+
+"Me ajude a montar um orçamento mensal realista com renda de R$ X, detalhando categorias (moradia, alimentação, transporte, dívidas, poupança, lazer), metas percentuais por categoria e um plano prático para cortar R$ Y por mês em gastos."
+
+"Explique uma estratégia de emergência e reserva financeira para alguém com renda variável: quanto guardar, onde aplicar (liquidez vs rendimento), tempo recomendado para acumular a reserva e passos semanais para começar."
+
+"Crie um plano de pagamento de dívidas (cartão, empréstimo pessoal, cheque especial) priorizando por taxa de juros, com simulações de prazos e valores mensais, além de dicas para evitar o ciclo de endividamento."
+
