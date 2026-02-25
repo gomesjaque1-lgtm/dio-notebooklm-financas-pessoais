@@ -7,3 +7,8 @@ Repositório criado para entregar o projeto sobre Finanças Pessoais da DIO. Foi
 - Banco Central do Brasil: Gestão de Finanças Pessoais.pdf
 - São Rafael Sociedade de Previdência Privada: cartilha_educacao_financeira.pdf
 - Instituto Brasileiro de Defesa do Consumidor: guia_educacao_financeira.pdf
+
+# Objetivos de Estudo
+- Orçamento mensal: Aprender a elaborar e gerenciar um orçamento mensal detalhado;
+- Reserva de emergência: Entender os princípios de formação e manutenção de uma reserva de emergência para renda variável;
+- Quitação de dívidas: Dominar técnicas de priorização e negociação de dívidas.
