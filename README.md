@@ -58,3 +58,74 @@ Investir é fazer o dinheiro "trabalhar para você" através dos juros compostos
    - Diversificação: É recomendável distribuir os recursos entre diferentes ativos para minimizar riscos.
      
 Em suma, a saúde financeira depende de planejar, escolher e disciplinar os gastos, transformando sonhos em projetos realizáveis através da poupança e do investimento consciente
+
+# Orçamento mensal (Resposta do Prompt 1)
+O orçamento mensal é a ferramenta fundamental de planejamento e gestão financeira, funcionando como um registro sistemático de todas as receitas (ganhos) e despesas (gastos) previstas e realizadas por uma pessoa ou família. Seu objetivo principal não é apenas reduzir custos, mas proporcionar maior controle sobre a vida financeira para que se possa planejar o alcance de metas e sonhos.
+
+1. Estrutura do Orçamento
+   
+Geralmente, organiza-se o orçamento em uma tabela ou planilha com duas colunas principais:
+
+ - Receitas: Inclui todo o dinheiro que entra, como salários, aposentadorias (receitas fixas) e comissões ou bicos (receitas variáveis).
+ - Despesas: Engloba tudo o que sai, desde contas básicas até lazer.
+   
+2. Etapas para Elaboração
+   
+As fontes sugerem um método dividido em quatro etapas para garantir a eficiência do orçamento:
+
+  - Planejamento: Estimar quanto se espera ganhar e gastar no mês seguinte, usando como base a rotina dos meses anteriores. É importante não superestimar receitas e basear-se no salário líquido (após descontos).
+  - Registro: Anotar diariamente todos os ganhos e gastos. Um erro comum é ignorar despesas pequenas (como o "cafezinho"), que se acumulam e tornam-se valores significativos.
+  - Agrupamento (Categorização): Reunir os gastos por afinidade (alimentação, moradia, transporte, lazer, etc.) para entender qual parcela da renda cada grupo consome.
+  - Avaliação: No final do mês, comparar o previsto com o realizado. É o momento de refletir se o saldo foi superavitário (sobrou dinheiro) ou deficitário (faltou dinheiro) e identificar onde é possível cortar desperdícios.
+    
+3. Classificação das Despesas
+   
+Para uma análise precisa, as despesas devem ser classificadas conforme sua natureza:
+
+  - Fixas: Gastos previsíveis e contínuos que dificilmente mudam de valor, como aluguel, condomínio e mensalidade escolar.
+  - Variáveis: Gastos constantes, mas cujo valor flutua conforme o consumo, como luz, água e supermercado.
+  - Eventuais ou Extraordinárias: Gastos que não ocorrem todos os meses, como IPVA, IPTU, presentes ou consertos imprevistos.
+    
+4. A Regra de Ouro: Orçamento Superavitário
+   
+A meta básica de qualquer gestão financeira é manter um orçamento superavitário (Receitas > Despesas). Isso permite a formação de uma poupança, que deve ser tratada como um compromisso. O princípio recomendado é o de "pagar-se primeiro": separar uma parcela da renda (sugere-se de 10% a 20%) para investimento assim que receber o salário, antes de pagar as outras contas.
+
+5. Dicas Práticas
+   
+  - Participação Familiar: O sucesso do orçamento depende do comprometimento de todos os membros da família. Conversar abertamente sobre dinheiro ajuda a alinhar objetivos comuns.
+  - Cuidado com Parcelamentos: Compras parceladas podem dar a ilusão de que o dinheiro sobra, mas o acúmulo de parcelas futuras pode comprometer seriamente o orçamento dos meses seguintes.
+  - Uso de Tecnologia: Além do papel e caneta, o uso de planilhas eletrônicas ou aplicativos de smartphone pode facilitar o controle diário
+
+# Reserva de emergência (Resposta do Prompt 2)
+A reserva de emergência é um montante financeiro destinado a cobrir gastos inesperados e inevitáveis, como desemprego, problemas de saúde ou reparos urgentes na casa. Ela funciona como uma proteção para que o indivíduo não precise abandonar seus objetivos de longo prazo ou recorrer ao endividamento em momentos de crise.
+
+Quanto guardar
+
+O valor necessário para a reserva depende da realidade profissional e do custo de vida de cada pessoa:
+
+  - Patrimônio Mínimo de Sobrevivência (PMS): Deve ser suficiente para custear 6 meses de consumo mensal.
+  - Patrimônio Mínimo Recomendado para Segurança (PMR): Equivale a 12 meses de consumo para quem possui emprego estável e 20 meses para profissionais autônomos.
+  - Uma recomendação básica para famílias é que a reserva seja, no mínimo, igual ao valor de sua renda mensal.
+
+Como construir a reserva
+
+A formação desse patrimônio deve ser tratada como a prioridade número um de qualquer planejamento financeiro.
+
+  - Pague-se primeiro: Recomenda-se separar de 5% a 20% da renda líquida para poupança assim que o dinheiro for recebido, antes de pagar outras contas.
+  - Regularidade: É importante incluir a construção da reserva nas metas mensais e fazer contribuições consistentes.
+  - Disciplina de uso: A reserva só deve ser utilizada para emergências reais; deve-se evitar o uso desses recursos para compras por impulso ou gastos não essenciais.
+    
+Onde aplicar os recursos
+
+Os investimentos escolhidos para a reserva de emergência devem possuir três características fundamentais: alta liquidez, baixo risco e segurança.
+
+  - Liquidez: Refere-se à rapidez com que o investimento pode ser transformado em dinheiro sem perda de valor.
+  - Opções recomendadas: As fontes sugerem ativos como a caderneta de poupança, CDBs (Certificado de Depósito Bancário) com liquidez diária, Tesouro Selic e fundos de renda fixa de curto prazo.
+  - Garantia: É aconselhável buscar produtos protegidos pelo FGC (Fundo Garantidor de Crédito), que garante o ressarcimento de até R$ 250 mil por CPF em caso de falência da instituição financeira.
+    
+Prevenção e Proteção
+
+Embora a reserva de emergência seja essencial, ela pode ser complementada por outras estratégias de proteção patrimonial, como a contratação de seguros (vida, saúde, automóvel e residencial). O seguro ajuda a mitigar riscos que poderiam ser financeiramente maiores do que o valor acumulado na reserva.
+
+# Quitação de dívidas (Resposta do Prompt 3)
+
