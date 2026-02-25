@@ -206,10 +206,9 @@ Glossário de Conceitos
 
 Prompts utilizados que estruturaram esta análise foram:
 
+  - Elabore um guia prático, para elaborar um orçamento mensal familiar superavitário onde inclua definição de categorias (receitas, despesas fixas, variáveis e eventuais), exemplo com valores e percentuais (incluindo 10–20% para poupança), rotina diária de registro (manual ou por app), método de avaliação mensal (comparar previsto x realizado e ajustar), estratégias para envolver a família, cuidados com parcelamentos e sugestões de ferramentas digitais ou alternativas analógicas.
+  - Elabore um plano passo a passo para criar e manter uma reserva de emergência, incluindo: metas por perfil (PMS 6 meses, PMR 12 meses para assalariados, 20 meses para autônomos), exemplo numérico com valores e prazos, sugestão de percentual mensal a poupar (5–20%), opções de aplicação (poupança, CDB com liquidez diária, Tesouro Selic, fundos de curto prazo) com justificativa sobre liquidez/risco/FGC, regras de uso da reserva e estratégias complementares (seguros e prioridades financeiras).
+  - Elabore um plano passo a passo para quitar dívidas de forma sustentável, incluindo: diagnóstico detalhado (lista de débitos, prazos, juros e CET), priorização por taxa de juros, estratégia de pagamento (evitar pagamento mínimo), opções de renegociação e consolidação (refinanciamento, negociação direta), limite de comprometimento de renda (máx. 35%), medidas de ajuste orçamentário e geração de renda, uso de recursos extras para amortização e ações de prevenção e mudança de hábito (reserva de emergência, participação familiar, autocontrole).
 
-"Me ajude a montar um orçamento mensal realista com renda de R$ X, detalhando categorias (moradia, alimentação, transporte, dívidas, poupança, lazer), metas percentuais por categoria e um plano prático para cortar R$ Y por mês em gastos."
 
-"Explique uma estratégia de emergência e reserva financeira para alguém com renda variável: quanto guardar, onde aplicar (liquidez vs rendimento), tempo recomendado para acumular a reserva e passos semanais para começar."
-
-"Crie um plano de pagamento de dívidas (cartão, empréstimo pessoal, cheque especial) priorizando por taxa de juros, com simulações de prazos e valores mensais, além de dicas para evitar o ciclo de endividamento."
 
